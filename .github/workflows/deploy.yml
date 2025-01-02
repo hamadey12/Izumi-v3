@@ -36,5 +36,5 @@ jobs:
         sudo apt-get install ffmpeg
 
     - name: Start application
-      run: npm start
+      run: npm start 
       */
